@@ -1,1 +1,24 @@
+{
+    "MQTT_BROKER": {
+        "IP": "192.168.0.11",
+        "PORT": 1883
+    },
+    "RFID": {   
+        "TRAVEL":{
+                    "PORT": "COM6",
+                    "BAUDRATE": 115200,
+                    "ENABLED": true
+                },
+        "FRONT": {
+                    "PORT": "COM6",
+                    "BAUDRATE": 115200,
+                    "ENABLED": false
+                },
+        "BACK": {
+                    "PORT": "COM9",
+                    "BAUDRATE": 115200,
+                    "ENABLED": false
+                }
+    }
+}
 
