@@ -1,3 +1,5 @@
+#  https://www.pepperl-fuchs.com/ko-kr/products-gp25581/60355
+#  PGV100-F200A-R4-V19 Optical reading head PGV Sensor
 import serial
 
 class SensorDataReceiver:
